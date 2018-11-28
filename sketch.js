@@ -74,7 +74,7 @@ var s = second();
 	if (h == 17 && m === 0 && s === 0) {
 			mySeventeen.play();
 	}
-	if (h == 18 && m === 45 && s === 0) {
+	if (h == 18 && m === 0 && s === 0) {
 			myEighteen.play();
 	}
 	if (h == 19 && m === 0 && s === 0) {
