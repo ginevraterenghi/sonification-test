@@ -1,0 +1,23 @@
+{
+  "tracce": [
+    {
+    "hour":12,
+    "minute":0,
+    "sound":"2011_Amp_HighAnomaly.mp3"
+    },
+    
+    {
+    "hour":13,
+    "minute":0,
+    "sound":"2011_Amp_MediumAnomaly.mp3"
+    },
+    
+    {
+    "hour":14, 
+    "minute":0,
+    "sound":"2011_Amp_NoAnomaly.mp3"
+    }
+    
+    
+]
+}
