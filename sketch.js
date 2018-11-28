@@ -53,7 +53,7 @@ var s = second();
 	if (h == 18 && m === 22 && s === 0) {
 			myTen.play();
 	}
-	if (h == 19 && m === 23 && s === 0) {
+	if (h == 18 && m === 32 && s === 0) {
 			myEleven.play();
 	}
 	if (h == 18 && m === 24 && s === 0) {
