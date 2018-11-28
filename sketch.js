@@ -132,8 +132,6 @@ text("time // " + h + ":" + m + ":" + s, 50, 120);
 
 
 
-
-
 /*for (var i = time[0]; i <= time[2]; i++) {
   var t = sound[i-time[0]]
 }*/
