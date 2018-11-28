@@ -68,16 +68,16 @@ var s = second();
 	if (h == 15 && m === 0 && s === 0) {
 			myFifteen.play();
 	}
-	if (h == 16 && m === 0 && s === 0) {
+	if (h == 19 && m === 8 && s === 0) {
 			mySixteen.play();
 	}
-	if (h == 19 && m === 07 && s === 0) {
+	if (h == 19 && m === 7 && s === 0) {
 			mySeventeen.play();
 	}
-	if (h == 19 && m === 06 && s === 0) {
+	if (h == 19 && m === 6 && s === 0) {
 			myEighteen.play();
 	}
-	if (h == 19 && m === 05 && s === 0) {
+	if (h == 19 && m === 5 && s === 0) {
 			myNineteen.play();
 	}
 	
@@ -97,7 +97,7 @@ else {
   textAlign(LEFT);
   textSize(10);
   fill('black');
-  text('Cyber Attacks [Sonification Project]', 50, 50);
+  text('Cyber Attacks [Sonification Project] F', 50, 50);
   
   textFont('Roboto Mono');
   textAlign(LEFT);
