@@ -71,13 +71,13 @@ var s = second();
 	if (h == 16 && m === 0 && s === 0) {
 			mySixteen.play();
 	}
-	if (h == 17 && m === 0 && s === 0) {
+	if (h == 19 && m === 07 && s === 0) {
 			mySeventeen.play();
 	}
-	if (h == 18 && m === 0 && s === 0) {
+	if (h == 19 && m === 06 && s === 0) {
 			myEighteen.play();
 	}
-	if (h == 19 && m === 0 && s === 0) {
+	if (h == 19 && m === 05 && s === 0) {
 			myNineteen.play();
 	}
 	
