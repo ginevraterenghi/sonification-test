@@ -44,22 +44,22 @@ var m = minute();
 var s = second();
 
 //partenza tracce
-  if (h == 8 && m === 0 && s === 0) {
+  if (h == 8 && m === 35 && s === 0) {
 			myEight.play();
 	}
-	if (h == 9 && m === 0 && s === 0) {
+	if (h == 8 && m === 40 && s === 0) {
 			myNine.play();
 	}
-	if (h == 10 && m === 0 && s === 0) {
+	if (h == 8 && m === 45 && s === 0) {
 			myTen.play();
 	}
-	if (h == 11 && m === 0 && s === 0) {
+	if (h == 9 && m === 0 && s === 0) {
 			myEleven.play();
 	}
-	if (h == 12 && m === 0 && s === 0) {
+	if (h == 9 && m === 05 && s === 0) {
 			myTwelve.play();
 	}
-	if (h == 13 && m === 0 && s === 0) {
+	if (h == 9 && m === 10 && s === 0) {
 			myThirteen.play();
 	}
 	if (h == 14 && m === 0 && s === 0) {
@@ -97,7 +97,7 @@ else {
   textAlign(LEFT);
   textSize(10);
   fill('black');
-  text('Cyber Attacks [Sonification Project] F', 50, 50);
+  text('Cyber Attacks [Sonification Project] K', 50, 50);
   
   textFont('Roboto Mono');
   textAlign(LEFT);
