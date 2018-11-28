@@ -45,40 +45,40 @@ var m = minute();
 var s = second();
 
 //partenza tracce
-  if (h == 8 && m === 0 && s === 0) {
+  if (h == 18 && m === 20 && s === 0) {
 			myEight.play();
 	}
-	if (h == 9 && m === 0 && s === 0) {
+	if (h == 18 && m === 21 && s === 0) {
 			myNine.play();
 	}
-	if (h == 10 && m === 0 && s === 0) {
+	if (h == 18 && m === 22 && s === 0) {
 			myTen.play();
 	}
-	if (h == 11 && m === 0 && s === 0) {
+	if (h == 19 && m === 23 && s === 0) {
 			myEleven.play();
 	}
-	if (h == 12 && m === 0 && s === 0) {
+	if (h == 18 && m === 24 && s === 0) {
 			myTwelve.play();
 	}
-	if (h == 13 && m === 0 && s === 0) {
+	if (h == 18 && m === 25 && s === 0) {
 			myThirteen.play();
 	}
-	if (h == 14 && m === 0 && s === 0) {
+	if (h == 18 && m === 26 && s === 0) {
 			myFourteen.play();
 	}
-	if (h == 15 && m === 0 && s === 0) {
+	if (h == 18 && m === 27 && s === 0) {
 			myFifteen.play();
 	}
-	if (h == 16 && m === 0 && s === 0) {
+	if (h == 18 && m === 28 && s === 0) {
 			mySixteen.play();
 	}
-	if (h == 17 && m === 0 && s === 0) {
+	if (h == 18 && m === 29 && s === 0) {
 			mySeventeen.play();
 	}
-	if (h == 18 && m === 0 && s === 0) {
+	if (h == 18 && m === 30 && s === 0) {
 			myEighteen.play();
 	}
-	if (h == 19 && m === 0 && s === 0) {
+	if (h == 18 && m === 31 && s === 0) {
 			myNineteen.play();
 	}
 	
@@ -98,7 +98,7 @@ else {
   textAlign(LEFT);
   textSize(10);
   fill('black');
-  text('Cyber Attacks [Sonification Project] Y', 50, 50);
+  text('Cyber Attacks [Sonification Project]', 50, 50);
   
   textFont('Roboto Mono');
   textAlign(LEFT);
