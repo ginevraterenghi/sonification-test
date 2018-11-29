@@ -44,22 +44,22 @@ var m = minute();
 var s = second();
 
 //partenza tracce
-  if (h == 9 && m === 15 && s === 0) {
+  if (h == 8 && m === 0 && s === 0) {
 			myEight.play();
 	}
-	if (h == 9 && m === 17 && s === 0) {
+	if (h == 9 && m === 0 && s === 0) {
 			myNine.play();
 	}
-	if (h == 9 && m === 19 && s === 0) {
+	if (h == 10 && m === 0 && s === 0) {
 			myTen.play();
 	}
-	if (h == 9 && m === 21 && s === 0) {
+	if (h == 11 && m === 0 && s === 0) {
 			myEleven.play();
 	}
-	if (h == 9 && m === 23 && s === 0) {
+	if (h == 12 && m === 0 && s === 0) {
 			myTwelve.play();
 	}
-	if (h == 9 && m === 25 && s === 0) {
+	if (h == 13 && m === 0 && s === 0) {
 			myThirteen.play();
 	}
 	if (h == 14 && m === 0 && s === 0) {
@@ -68,16 +68,16 @@ var s = second();
 	if (h == 15 && m === 0 && s === 0) {
 			myFifteen.play();
 	}
-	if (h == 19 && m === 8 && s === 0) {
+	if (h == 16 && m === 0 && s === 0) {
 			mySixteen.play();
 	}
-	if (h == 19 && m === 7 && s === 0) {
+	if (h == 17 && m === 0 && s === 0) {
 			mySeventeen.play();
 	}
-	if (h == 19 && m === 6 && s === 0) {
+	if (h == 18 && m === 0 && s === 0) {
 			myEighteen.play();
 	}
-	if (h == 19 && m === 5 && s === 0) {
+	if (h == 19 && m === 0 && s === 0) {
 			myNineteen.play();
 	}
 	
