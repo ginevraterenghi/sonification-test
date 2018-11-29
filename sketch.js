@@ -97,7 +97,7 @@ else {
   textAlign(LEFT);
   textSize(10);
   fill('black');
-  text('Cyber Attacks [Sonification Project] K', 50, 50);
+  text('Cyber Attacks [Sonification Project] //', 50, 50);
   
   textFont('Roboto Mono');
   textAlign(LEFT);
