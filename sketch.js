@@ -44,22 +44,22 @@ var m = minute();
 var s = second();
 
 //partenza tracce
-  if (h == 8 && m === 35 && s === 0) {
+  if (h == 9 && m === 15 && s === 0) {
 			myEight.play();
 	}
-	if (h == 8 && m === 40 && s === 0) {
+	if (h == 9 && m === 17 && s === 0) {
 			myNine.play();
 	}
-	if (h == 8 && m === 45 && s === 0) {
+	if (h == 9 && m === 19 && s === 0) {
 			myTen.play();
 	}
-	if (h == 9 && m === 0 && s === 0) {
+	if (h == 9 && m === 21 && s === 0) {
 			myEleven.play();
 	}
-	if (h == 9 && m === 05 && s === 0) {
+	if (h == 9 && m === 23 && s === 0) {
 			myTwelve.play();
 	}
-	if (h == 9 && m === 10 && s === 0) {
+	if (h == 9 && m === 25 && s === 0) {
 			myThirteen.play();
 	}
 	if (h == 14 && m === 0 && s === 0) {
